@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(red, green, blue);
+  color: white;
+}
 
 .App-logo {
   height: 40vmin;
